@@ -1,0 +1,16 @@
+C:\Users\TEMP.VEREB.010\source\repos\szamologep\szamologep\bin\Debug\szamologep.exe.config
+C:\Users\TEMP.VEREB.010\source\repos\szamologep\szamologep\bin\Debug\szamologep.exe
+C:\Users\TEMP.VEREB.010\source\repos\szamologep\szamologep\bin\Debug\szamologep.pdb
+C:\Users\TEMP.VEREB.010\source\repos\szamologep\szamologep\obj\Debug\szamologep.csprojResolveAssemblyReference.cache
+C:\Users\TEMP.VEREB.010\source\repos\szamologep\szamologep\obj\Debug\szamologep.Calculator.resources
+C:\Users\TEMP.VEREB.010\source\repos\szamologep\szamologep\obj\Debug\szamologep.Properties.Resources.resources
+C:\Users\TEMP.VEREB.010\source\repos\szamologep\szamologep\obj\Debug\szamologep.csproj.GenerateResource.Cache
+C:\Users\TEMP.VEREB.010\source\repos\szamologep\szamologep\obj\Debug\szamologep.csproj.CoreCompileInputs.cache
+C:\Users\TEMP.VEREB.010\source\repos\szamologep\szamologep\obj\Debug\szamologep.exe
+C:\Users\TEMP.VEREB.010\source\repos\szamologep\szamologep\obj\Debug\szamologep.pdb
+C:\Users\Tökmindegy\Downloads\szamologep\szamologep\szamologep\obj\Debug\szamologep.csprojAssemblyReference.cache
+C:\Users\Tökmindegy\Downloads\szamologep\szamologep\szamologep\obj\Debug\szamologep.Calculator.resources
+C:\Users\Tökmindegy\Downloads\szamologep\szamologep\szamologep\obj\Debug\szamologep.Properties.Resources.resources
+C:\Users\Tökmindegy\Downloads\szamologep\szamologep\szamologep\obj\Debug\szamologep.csproj.GenerateResource.cache
+C:\Users\Tökmindegy\Downloads\szamologep\szamologep\szamologep\obj\Debug\szamologep.exe
+C:\Users\Tökmindegy\Downloads\szamologep\szamologep\szamologep\obj\Debug\szamologep.pdb
